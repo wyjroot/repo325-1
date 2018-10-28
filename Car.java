@@ -1,1 +1,3 @@
-public class Car{}
+public class Car{
+	private String name;
+}
